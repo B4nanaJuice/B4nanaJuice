@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently an IT student at University of Technology of Troyes.<br><br>⏳ I’m working on a newer version of CocktailLib<br>🌱 I’m learning Cybersecurity, React & APIs<br>📚 All of my projects are available <a href="https://github.com/B4nanaJuice?tab=repositories">on this Github</a>
+IT student at University of Technology of Troyes currently @TU/e<br><br>⏳ I’m working on a newer version of CocktailLib<br>🌱 I’m learning Cybersecurity, React & APIs<br>📚 All of my projects are available <a href="https://github.com/B4nanaJuice?tab=repositories">on this Github</a>
 
 
 ## 🌐 Socials:
