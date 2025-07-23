@@ -39,7 +39,7 @@ IT student at University of Technology of Troyes<br><br>
 ![MatLab](https://img.shields.io/badge/Matlab-0a4896?style=for-the-badge)
 ## 🎚️ Adminsys
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=white&labelColor=424242&color=424242)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=424242&color=424242)
 ## 📚 Others
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
